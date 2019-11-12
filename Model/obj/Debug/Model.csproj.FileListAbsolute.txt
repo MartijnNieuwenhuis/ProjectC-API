@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Scralingo\Model\bin\Debug\Model.dll
+C:\Users\marti\source\repos\Scralingo\Model\bin\Debug\Model.pdb
+C:\Users\marti\source\repos\Scralingo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Scralingo\Model\obj\Debug\Model.dll
+C:\Users\marti\source\repos\Scralingo\Model\obj\Debug\Model.pdb
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Model\bin\Debug\Model.dll
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Model\bin\Debug\Model.pdb
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Model\obj\Debug\Model.dll
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Model\obj\Debug\Model.pdb

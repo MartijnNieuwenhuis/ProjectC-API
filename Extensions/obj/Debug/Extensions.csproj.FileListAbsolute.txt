@@ -1,0 +1,9 @@
+C:\Users\marti\source\repos\Scralingo\Extensions\bin\Debug\Extensions.dll
+C:\Users\marti\source\repos\Scralingo\Extensions\bin\Debug\Extensions.pdb
+C:\Users\marti\source\repos\Scralingo\Extensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Scralingo\Extensions\obj\Debug\Extensions.dll
+C:\Users\marti\source\repos\Scralingo\Extensions\obj\Debug\Extensions.pdb
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Extensions\bin\Debug\Extensions.dll
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Extensions\bin\Debug\Extensions.pdb
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Extensions\obj\Debug\Extensions.dll
+C:\Users\marti\OneDrive\Documenten\GitHub\ProjectC-API\Extensions\obj\Debug\Extensions.pdb
